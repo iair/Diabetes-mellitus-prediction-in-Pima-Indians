@@ -1,18 +1,18 @@
 # Diabetes-mellitus-prediction-in-Pima-Indians
 
-This repository was created to show the workshop for "Switch Fb developer circle", which is going to take place on 05-08-2017.The content is:
+This repository was created to show the workshop for "Switch Fb developer circle", which is going to take place on 05-08-2017.
 
 Títle: "Proceso CRISP-DM aplicado a la predicción de la diabetes mellitus con datasets públicos"
 
-Content:
+The content of the workshop is divided into two stages:
 
-##Theoretical
+## Theoretical
 
 1.-The CRISP-DM process
 
 2.-Explanation of the problem to solve, structure and problems that we face in the dataset.
 
-##Hands on
+## Hands on
 
 1.-Understanding and characterization of the data.
 
