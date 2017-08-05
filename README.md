@@ -8,7 +8,9 @@ The content of the workshop is divided into two stages:
 
 ## Theoretical
 
-1.-The CRISP-DM process
+1.-The CRISP-DM and BAB process.
+
+2.-Scrum Agile and how to mix it with Data Science from my experience
 
 2.-Explanation of the problem to solve, structure and problems that we face in the dataset.
 
@@ -20,8 +22,10 @@ The content of the workshop is divided into two stages:
 
 3.-Data preparation
 
-4.-Application and comparison of the performance of linear regression, logistic, Rando Forest and black box models (I have not seen one yet)
+4.-Application of logistic,GridSearch algortihm and Random Forest models
 
-5.-Validation of the fulfillment of the assumptions of the Linear Regression model
+5.-Performance analysis
 
 6.-Conclusions
+
+In the future: TBD according to the feedback of the first audience in the Dev Circle Ago/2017 in SCL-CL
